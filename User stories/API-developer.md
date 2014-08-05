@@ -10,7 +10,7 @@ I want to provide short description and url that points to API specification res
 I want to do this on web browser based interface.
 
 
-## Change existing API info on API:SUomi
+## Change existing API info on API:Suomi
 
 TBD.
 
