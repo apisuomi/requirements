@@ -1,4 +1,4 @@
 Functional requirements for API:Suomi
 =========================================
 
-TDB.
+Please see the User stories.

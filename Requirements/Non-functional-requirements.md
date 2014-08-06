@@ -1,4 +1,4 @@
 Non-functional requirements for API:Suomi
 =========================================
 
-TDB.
+To be defined.
