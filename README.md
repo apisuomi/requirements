@@ -13,7 +13,7 @@ Requirements will be documented from *the user's point of view*, as scrum user s
 
 Simple example: As an API developer I want to be able to add new API to repository so that it will be publically available.
 
-Features:
+## Features:
 * As a developer I want to be able to update any given attribute on listed APIs (which I'm entitled to do so)
 * As an API publisher I want to be able to write API description with RAML and use that file as data input or update for listed API
 * As a program I want to list all APIs, paged
@@ -22,3 +22,4 @@ Features:
 * As a developer, I want to be able to update API attributes via API and graphical UI
 * 
 
+To add more features, raise an issue: https://github.com/apisuomi/requirements/issues/new
