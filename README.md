@@ -22,4 +22,4 @@ Simple example: As an API developer I want to be able to add new API to reposito
 * As a developer, I want to be able to update API attributes via API and graphical UI
 * 
 
-To add more features, raise an issue: https://github.com/apisuomi/requirements/issues/new
+To add more features, raise an issue: https://github.com/apisuomi/requirements/issues/new or fork the repository and create a Pull request.
