@@ -13,13 +13,12 @@ Requirements will be documented from *the user's point of view*, as scrum user s
 
 Simple example: As an API developer I want to be able to add new API to repository so that it will be publically available.
 
-## User Stories
+## Existing User Stories
 * [User stories for API consumer](https://github.com/apisuomi/requirements/blob/master/User%20stories/API-consumer.md)
-* User stories for API developer and publisher
+* [User stories for API developer and publisher](https://github.com/apisuomi/requirements/blob/master/User%20stories/API-developer-publisher.md)
 
-## Requirements
-* Functional requirements for API:Suomi
-* Functional requirements for API:Suomi
-
+## Existing Requirements
+* [Functional requirements for API:Suomi](https://github.com/apisuomi/requirements/blob/master/Requirements/Functional-requirements.md)
+* [Functional requirements for API:Suomi](https://github.com/apisuomi/requirements/blob/master/Requirements/Non-functional-requirements.md)
 
 To add more features, raise an issue as user story: https://github.com/apisuomi/requirements/issues/new or fork the repository and create a Pull request.
