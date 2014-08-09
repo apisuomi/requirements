@@ -1,5 +1,6 @@
 API:Suomi 2.0 Requirements
 ============
+![](http://apisuomi.fi/wp-content/uploads/2014/06/apisuomi-big-round.png)
 
 This document is a lightweight requirements documentation for {API:Suomi} 2.0 service. 
 
