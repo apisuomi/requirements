@@ -21,5 +21,5 @@ Simple example: As an API developer I want to be able to add new API to reposito
 * [Functional requirements for API:Suomi](https://github.com/apisuomi/requirements/blob/master/Requirements/Functional-requirements.md)
 * [Functional requirements for API:Suomi](https://github.com/apisuomi/requirements/blob/master/Requirements/Non-functional-requirements.md)
 
-## 04 - Feature not found?
+## 404 - Feature not found?
 To add more features, raise an issue as user story: https://github.com/apisuomi/requirements/issues/new or fork the repository and create a Pull request.
